@@ -1,0 +1,17 @@
+.clear-btn {
+  display: flex;
+  flex: 1;
+  height: 4rem;
+  align-items: center;
+  justify-content: center;
+  font-weight: lighter;
+  font-size: 1.4rem;
+  outline: 1px solid #888;
+  height: 4rem;
+  background-color: #c5c3cd;
+  font-family: "Poppins", sans-serif;
+}
+
+.clear-btn:active {
+  transform: translateY(2px);
+}

@@ -1,0 +1,16 @@
+.memoryBtn {
+  display: flex;
+  flex: 1;
+  height: 4rem;
+  align-items: center;
+  justify-content: center;
+  font-weight: lighter;
+  font-size: 1.4rem;
+  outline: 1px solid #888;
+  background-color: #c5c3cd;
+  font-family: "Poppins", sans-serif;
+}
+
+.memoryBtn:active {
+  transform: translateY(2px);
+}

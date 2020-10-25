@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.input {
+  display: flex;
+  height: 4rem;
+  flex: 1;
+  background-color: black;
+  outline: 1px solid #888;
+  color: white;
+  justify-content: flex-end;
+  padding: 0.5rem;
+  font-weight: bold;
+  font-size: 1.4rem;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+}
